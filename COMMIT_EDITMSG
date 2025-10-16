@@ -1,0 +1,8 @@
+Implement real blockchain transactions for escrow funding and fund release
+
+Integrate Solana devnet for actual escrow account creation, SOL transfers via Phantom wallet, and fund release functionality. Refactor `fundEscrow` to handle escrow account creation and signing with escrow's secret key. Update UI with MVP security notices and transaction tracking. Add `buffer` polyfill for web3.js compatibility.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 50412130-5314-4cce-acb6-4cfe239a0fc5
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/feb56c2f-616e-40af-82fa-b65d5b3a3bdc/50412130-5314-4cce-acb6-4cfe239a0fc5/xE4hHbV
